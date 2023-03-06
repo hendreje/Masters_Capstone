@@ -1,2 +1,3 @@
-# Masters_Capstone
-Panel Regression Analysis on Labor Market Value based on Alcohol Consumption and Smoking Status
+# Predicting Labor Market Value using a Panel Data Study on alcohol and smoking
+
+The results from previous studies suggest that the consumption of alcohol and smoking do have a significant impact on someone’s labor market value. Other studies utilize dynamic models to determine these variables true effects over multiple time periods. In this paper, the results were surprisingly similar. By utilizing a panel data model, smoking and alcohol consumption were considered to be statistically significant at the 99 percent confidence interval by settling on the first difference estimator. This measurement is considered to fulfill traditional OLS assumptions and has robust standard errors. Additionally, being a female and, to a less extent, being an African American woman did yield statistically significant results at the 95 percent confidence interval. There is also the possibility of smoking and alcohol consumption to be endogenous of each other which would be hard to isolate their true effects within any model and cause misleading results. 
